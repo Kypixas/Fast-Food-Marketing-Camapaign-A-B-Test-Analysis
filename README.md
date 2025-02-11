@@ -3,7 +3,7 @@ gid=1236938921#gid=1236938921)
 
 # Project Overview: Cohort Revenue Analysis
 
-#### Link to the project: [Cohort Revenue Analysis](https://docs.google.com/spreadsheets/d/100EPnls230gUQx8spLBYQ6O4ycyy96Nbh6kcBTsDau4/edit?)
+#### Link to the project: [Cohort Revenue Analysis](https://docs.google.com/spreadsheets/d/1ftc-ufO5c9emsGJccdZyLGR4GYmMoxqrzDT5SA8EFs4/edit?gid=927286111#gid=927286111)
 
 ## Task and Requirements
 

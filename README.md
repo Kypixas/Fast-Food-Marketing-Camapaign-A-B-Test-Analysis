@@ -40,7 +40,7 @@ Pairwise t-tests were conducted to compare the sales performance between each pa
 ### 1. Promotion 1 vs Promotion 2:
 - **p-value**: 0.0012
 - **Conclusion**: The p-value is much lower than 0.01, indicating a statistically significant difference between the sales of Promotion 1 and Promotion 2. **Promotion 1 outperforms Promotion 2** and should be recommended for launch.
-![image](https://github.com/user-attachments/assets/c50c280b-c655-445f-b68e-1b4b6f0de7fb)
+- ![image](https://github.com/user-attachments/assets/c50c280b-c655-445f-b68e-1b4b6f0de7fb)
 
 
 ### 2. Promotion 1 vs Promotion 3:
